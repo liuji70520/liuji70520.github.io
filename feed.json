@@ -1,0 +1,16 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "居正",
+    "description": "When you have a firm heart, you will be able to do not pride, not self-abasement, peace with things",
+    "home_page_url": "http://example.com",
+    "items": [
+        {
+            "id": "http://example.com/2024/07/18/Wecome-to-my-world/",
+            "url": "http://example.com/2024/07/18/Wecome-to-my-world/",
+            "title": "Wecome to my world!",
+            "date_published": "2024-07-17T19:18:13.000Z",
+            "content_html": "",
+            "tags": []
+        }
+    ]
+}
